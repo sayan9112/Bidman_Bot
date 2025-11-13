@@ -1,9 +1,5 @@
 
-<p align="center">
-  https://img.shields.io/badge/build-passing-brightgreen
-  https://img.shields.io/badge/license-MIT-blue
-  https://img.shields.io/badge/tech%20stack-Python%20%7C%20Angular%20%7C%20FastAPI-orange
-</p>
+
 
 # **Bidman Bot – Local AI-Powered Code Analysis Chatbot**
 
