@@ -1,7 +1,7 @@
 
 
 
-# **Bidman Bot – Local AI-Powered Code Analysis Chatbot**
+# **Bidman Bot – Local AI-Powered Takeoff Analysis Chatbot**
 
 ## **Introduction**
 Bidman Bot is an **offline AI-powered chatbot** designed to analyze large codebases and provide actionable coding solutions. Unlike cloud-based systems, this chatbot runs entirely on **local infrastructure**, ensuring **data privacy**, **security**, and **offline availability**.
