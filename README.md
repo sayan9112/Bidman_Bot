@@ -8,8 +8,8 @@ Bidman Bot is an **offline AI-powered chatbot** designed to analyze large codeba
 
 It supports large folders (700 MB – 1 GB) containing multiple file types such as `.cs`, `.html`, `.ts`, `.json`, and more.  
 The chatbot assists developers by:
-- Understanding complex code structures.
-- Suggesting debugging tips and enhancements.
+- One can upload a whole takeoff
+- Suggesting debugging tips and enhancements as directed
 - Supporting **.NET**, **Angular**, and other technologies.
 
 The system will be deployed internally, allowing multiple team members to download and run it from a shared GitHub repository.
@@ -34,7 +34,7 @@ The system will be deployed internally, allowing multiple team members to downlo
 - Provide suggestions for optimization and debugging.
 
 ### 3. Context Management
-- Use chunking and embeddings for large codebases.
+- Use chunking and embeddings for large takeoffs.
 - Maintain session context for multi-file queries.
 
 ### 4. Local Execution
